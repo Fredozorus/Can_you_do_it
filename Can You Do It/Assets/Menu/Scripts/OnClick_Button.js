@@ -2,7 +2,7 @@
 
 function START_TUTO()
 {
-    Application.LoadLevel("Tuto/Level_001");
+    Application.LoadLevel("Game/Tuto/Level_001");
 }
 
 function START_GAME()
